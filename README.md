@@ -37,17 +37,7 @@ cd Userback-Modal
 npm install
 ```
 
-### 3. Configure Userback token
-
-Create a `.env.local` file in the root directory with your Userback token:
-
-```
-VITE_USERBACK_TOKEN=your_userback_token_here
-```
-
-or use the provided demo token in the Layout.tsx file.
-
-### 4. Run the development server
+### 3. Run the development server
 
 ```bash
 npm run dev
